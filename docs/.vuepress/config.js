@@ -2,6 +2,7 @@ module.exports = {
   title: 'CommandTerminal',
   description: '一套高性能的Java控制台组件库',
   base: '/CommandTerminalDocs/',
+  dest: 'public',
   themeConfig: {// 主题设置
     nav: [// 导航栏
       {
