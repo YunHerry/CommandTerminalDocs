@@ -11,8 +11,8 @@ module.exports = {
       }, {
         text: '选择语言',
         items: [
-          { text: '笔记', link: '/guide/ts/' },// 以 ‘/’结束，默认读取 README.md
-          { text: '其它链接', link: 'https://www.baidu.com/' } // 外部链接
+          { text: 'CN', link: '/guide/CN/' },// 以 ‘/’结束，默认读取 README.md
+          { text: 'EN', link: '/GUIDE/EN/' } // 外部链接
         ]
       }, {
         text: '贡献者',
